@@ -1,0 +1,14 @@
+[
+  {
+    "timestamp": "2023-11-03T10:45:00+00:00",
+    "ip": "192.168.1.101",
+    "username": "admin1",
+    "event_type": "Login"
+  },
+  {
+    "timestamp": "2023-11-03T11:00:00+00:00",
+    "ip": "172.16.0.5",
+    "username": "bob",
+    "event_type": "PermissionChange"
+  }
+]

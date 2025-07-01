@@ -1,0 +1,17 @@
+version: '3.8'
+
+services:
+  flaskapp:
+    build: .
+    container_name: flaskapp
+    ports:
+      - "5000:5000"
+    volumes:
+      - .:/app
+      - logs_data:/app/data   
+    environment:
+      - FLASK_ENV=development
+    restart: unless-stopped
+
+volumes:
+  logs_data:

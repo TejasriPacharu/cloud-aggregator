@@ -2,11 +2,6 @@
 
 A comprehensive cloud log aggregation, analysis, and visualization solution for multi-cloud environments. This system collects logs from various cloud services, normalizes them into a consistent format, detects security anomalies, and provides real-time alerting and visualization through a modern web dashboard.
 
-## Architecture
-
-![Architecture Diagram](https://via.placeholder.com/800x400?text=Cloud+Aggregator+Architecture+Diagram)
-<!-- Replace with actual architecture diagram from Draw.io or Lucidchart -->
-
 ## Features
 
 - **Log Collection**: Parse and normalize logs from multiple cloud providers (AWS CloudTrail, Azure Activity Logs)
@@ -34,7 +29,7 @@ A comprehensive cloud log aggregation, analysis, and visualization solution for 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/cloud-aggregator.git
+   git clone https://github.com/TejasriPacharu/cloud-aggregator.git
    cd cloud-aggregator
    ```
 
@@ -64,7 +59,7 @@ A comprehensive cloud log aggregation, analysis, and visualization solution for 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/cloud-aggregator.git
+   git clone https://github.com/TejasriPacharu/cloud-aggregator.git
    cd cloud-aggregator
    ```
 
